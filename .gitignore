@@ -1,0 +1,19 @@
+# Azure OpenAI Credentials
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+config/secrets.json
+__pycache__/
+*.pyc
+.pytest_cache/
+.jupyter/
+.ipynb_checkpoints/
+# OS generated files
+.DS_Store
+Thumbs.db
+# Other
+.github/
+notebooks/experiment_logs/
+storage/
