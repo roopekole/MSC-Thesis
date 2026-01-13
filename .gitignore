@@ -21,3 +21,6 @@ data/etfs/
 data/stocks/
 notebooks/.ipynb_checkpoints/
 data/
+*.bin
+*.parquet
+*.pt
