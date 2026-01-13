@@ -23,3 +23,4 @@ data/
 *.parquet
 *.pt
 finance_gpt_thesis_model.pth
+checkpoints/
