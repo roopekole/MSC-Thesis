@@ -17,3 +17,7 @@ Thumbs.db
 .github/
 notebooks/experiment_logs/
 storage/
+data/etfs/
+data/stocks/
+notebooks/.ipynb_checkpoints/
+data/
