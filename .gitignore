@@ -17,10 +17,9 @@ Thumbs.db
 .github/
 notebooks/experiment_logs/
 storage/
-data/etfs/
-data/stocks/
 notebooks/.ipynb_checkpoints/
 data/
 *.bin
 *.parquet
 *.pt
+finance_gpt_thesis_model.pth
